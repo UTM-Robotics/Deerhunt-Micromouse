@@ -1,2 +1,2 @@
-# Deerhunt-Micromouse-
-Simulation environment for Deerhunt Micromouse, 
+# Deerhunt-Micromouse
+Simulation environment for Deerhunt Micromouse
